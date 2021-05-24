@@ -1,2 +1,2 @@
 # MBFDassets
-Assets for a small video project
+Assets from Mike's Bad Fur Day
